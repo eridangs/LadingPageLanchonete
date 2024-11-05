@@ -4,7 +4,7 @@
     top: 0;
     background-color: var(--color-primary-3);
     position: sticky;
-    z-index: 3;
+    z-index: 3; /*camadassss*/
 }
 .nav-bar{
     width: 100%;
